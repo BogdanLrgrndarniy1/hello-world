@@ -14,7 +14,7 @@ I have a dream.
        <ul> if (min > array[i]) min = array[i];</ul>
    <ul> }</ul>
    <ul> return min;</ul>
-<ul>};</ul></p>
+};</p>
 
 <p><strong><ul>}Задания 3</strong></ul>
 <ul>}let arr = [1, 2, 3, 4, 5];</ul>
