@@ -3,10 +3,10 @@ My vlog about JS
 I'm a bogdan.
 I have a dream.
 
-Задания 2 
+<p>Задания 2 
 var array = [2, 5, 6, 6, 12, 15, 0, 3, 8, 9];
 var min = getMin(array);
-alert(min);
+alert(min);</p>
 
 function getMin(array){
     var min = array[0];
