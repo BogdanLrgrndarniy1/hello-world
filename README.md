@@ -17,6 +17,6 @@ I have a dream.
 };</p>
 
 <p><strong><ul>}Задания 3</strong></ul>
-<ul>}let arr = [1, 2, 3, 4, 5];</ul>
-<ul>}console.log( arr.filter(elem => elem % 2 == 0) );</ul></p>
+<ul>let arr = [1, 2, 3, 4, 5];</ul>
+<ul>console.log( arr.filter(elem => elem % 2 == 0) );</ul></p>
 
