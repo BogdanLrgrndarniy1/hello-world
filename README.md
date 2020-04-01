@@ -20,3 +20,26 @@ I have a dream.
 <ul>let arr = [1, 2, 3, 4, 5];</ul>
 <ul>console.log( arr.filter(elem => elem % 2 == 0) );</ul></p>
 
+<ul>Задания 4 
+
+
+<p><ul>  let people = </ul>   
+<ul> [{name:'Jonny Walker',birthDate: '1995-12-17'},</ul>   
+ <ul> {name:'Andrew',birthDate:'2001-10-29'},</ul>   
+<ul>  {name:'Viktor',birthDate:'1998-11-09'},</ul>   
+<ul>   {name:'Andrew',birthDate: '2011-05-09'}</ul>   
+<ul>];</ul> </p>
+
+
+
+
+<ul>searchByName()</ul>   
+
+<p><ul>function searchByName(string) {</ul>   
+   <ul>people.filter(function (string) {</ul>   
+      <ul>return string.name < length;</ul>   
+   <ul> }).map(function (string) {</ul>   
+     <ul> console.log(string.name + ': ' + string.birthDate);</ul>   
+  <ul>  });</ul>   
+ <ul>  }</ul>   </p>
+
